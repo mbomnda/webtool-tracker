@@ -16,7 +16,7 @@ First .NET project, coming from PHP MVC. I am an Operations Supervisor that is l
 ## Status Roadmap 
 
 - [x] Project scaffold
-- [ ] Request model + database
+- [x] Request model + database
 - [ ] Request list and create form
 - [ ] Status workflow with notes
 - [ ] Dashboard
